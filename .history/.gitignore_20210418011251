@@ -1,6 +1,4 @@
 .DS_Store
-node_modules/
-package-lock.json
 # Compiled class file
 *.class
 
